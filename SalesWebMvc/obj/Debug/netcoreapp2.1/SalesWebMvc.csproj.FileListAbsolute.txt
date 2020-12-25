@@ -33,4 +33,3 @@ D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
-D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
