@@ -7,7 +7,6 @@ D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
-D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
@@ -33,3 +32,5 @@ D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
+D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
