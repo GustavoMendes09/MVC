@@ -40,3 +40,4 @@ D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
