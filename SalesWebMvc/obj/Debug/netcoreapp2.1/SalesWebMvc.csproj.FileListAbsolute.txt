@@ -45,3 +45,4 @@ D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
 D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+D:\source\repos\Projeto Sistema Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
